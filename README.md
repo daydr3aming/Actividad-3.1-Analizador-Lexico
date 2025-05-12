@@ -3,4 +3,4 @@
 ### How to run
 
 make\
-./lex_analyzer < 'filename'.ac
+./lex_analyzer < 'testcase'.ac
